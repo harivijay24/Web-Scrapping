@@ -1,0 +1,3 @@
+Scrap the top rated movies from the IMDB website and stored in a excel file.
+Used Beautiful Soup library for scrapping.
+Used pandas to save the data as an Excel file.
